@@ -1,6 +1,6 @@
-## Manuel Roca Lima
+# Manuel Roca Lima
 ## Future civil engineering student. 
-# -I write code to understand systems.-
+### <span style="color:blue">-I write code to understand systems.-</span> 
 
 Recursive problem decomposition — I solve problems by reducing them to their trivial case. Binary search, backtracking— all built from scratch without libraries.
 Sorting algorithms — Selection, QuickSort implemented with real comparison and swap counters. I measure, I don't assume.
